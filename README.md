@@ -17,10 +17,10 @@ $ npm i puppeteer
 
 
 ## Puppeteer
-Puppeteer -> a high level module made by google that can do most of the automation that could be done manually
-to launch a browser -> function defined -> browser context
-tabs -> pages
-keyboard/mouse/screenTouch clicks
-upload/download
-iFrames
-Worker -> can do parallel works -> eg. submitting a code and clicking anywhere on website ->(generally js allows single run only)
+Puppeteer -> a high level module made by google that can do most of the automation that could be done manually<br>
+to launch a browser -> function defined -> browser context<br>
+tabs -> pages <br>
+keyboard/mouse/screenTouch clicks <br>
+upload/download <br>
+iFrames <br>
+Worker -> can do parallel works -> eg. submitting a code and clicking anywhere on website ->(generally js allows single run only) <br>
