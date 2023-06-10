@@ -1,0 +1,23 @@
+{
+  "name": "browser-autom",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Browser AutoM</h1>\r I will be making some projects on browser automation using js",
+  "main": "puppeteer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhisheksangwan/Browser-Autom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhisheksangwan/Browser-Autom/issues"
+  },
+  "homepage": "https://github.com/abhisheksangwan/Browser-Autom#readme",
+  "dependencies": {
+    "puppeteer": "^20.5.0"
+  }
+}
