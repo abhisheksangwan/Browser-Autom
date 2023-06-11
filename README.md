@@ -1,10 +1,11 @@
 <h1 align="center">Browser AutoM</h1>
-I will be making some projects on browser automation using js
+I will be making some projects on browser automation using js.
+Here I will be first opening google.com then go to my college website i.e. IIT Kanpur via automated clicking on website name of google searches.
 
 ## Table Of Contents
 - [Getting Started](#getting-started)
 - [Puppeteer](#Puppeteer)
--[Articles/Documentation](#OfficialArticles/Documentation)
+- [Articles/Documentation](#OfficialArticles/Documentation)
 
 ## Getting Started
 
