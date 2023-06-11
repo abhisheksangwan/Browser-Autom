@@ -29,7 +29,7 @@ Worker -> can do parallel works -> eg. submitting a code and clicking anywhere o
 
 ## OfficialArticles/Documentation
 
-[Official documentation of Puppeteer](https://pptr.dev/)
-[Article 1 For more test cases/uses](https://flaviocopes.com/puppeteer/)
-[Article 2 -> In-Depth Article](https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/)
+[Official documentation of Puppeteer](https://pptr.dev/)<br>
+[Article 1 For more test cases/uses](https://flaviocopes.com/puppeteer/)<br>
+[Article 2 -> In-Depth Article](https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/)<br>
 
