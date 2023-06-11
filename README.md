@@ -4,6 +4,7 @@ I will be making some projects on browser automation using js
 ## Table Of Contents
 - [Getting Started](#getting-started)
 - [Puppeteer](#Puppeteer)
+-[Articles/Documentation](#OfficialArticles/Documentation)
 
 ## Getting Started
 
@@ -17,6 +18,7 @@ $ npm i puppeteer
 
 
 ## Puppeteer
+
 Puppeteer -> a high level module made by google that can do most of the automation that could be done manually<br>
 to launch a browser -> function defined -> browser context<br>
 tabs -> pages <br>
@@ -24,3 +26,10 @@ keyboard/mouse/screenTouch clicks <br>
 upload/download <br>
 iFrames <br>
 Worker -> can do parallel works -> eg. submitting a code and clicking anywhere on website ->(generally js allows single run only) <br>
+
+## OfficialArticles/Documentation
+
+[Official documentation of Puppeteer](https://pptr.dev/)
+[Article 1 For more test cases/uses](https://flaviocopes.com/puppeteer/)
+[Article 2 -> In-Depth Article](https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/)
+
